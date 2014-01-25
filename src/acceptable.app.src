@@ -1,0 +1,10 @@
+{application, acceptable, [
+  {description, "Choose an acceptable content-type"},
+  {vsn, "0.1"},
+  {modules, []},
+  {registered, []},
+  {applications, [
+    kernel,
+    stdlib
+  ]}
+]}.
